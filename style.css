@@ -127,7 +127,7 @@ img {
     font-size: 0.6em;
   }
   .card-container {
-    width: 50%;
+    width: 80%;
   }
 }
 @media screen and (max-height: 550px) {
