@@ -115,6 +115,7 @@ img {
 @media screen and (min-width: 800px) {
   body {
     font-size: 0.9em;
+    height: 100%
   }
   .card-container {
     width: 800px;
@@ -127,7 +128,7 @@ img {
     font-size: 0.6em;
   }
   .card-container {
-    width: 80%;
+    width: 20%;
   }
 }
 @media screen and (max-height: 550px) {
